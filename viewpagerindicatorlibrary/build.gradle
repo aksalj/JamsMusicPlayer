@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.velocityviewpagerindicator"
-        minSdkVersion 4
-        targetSdkVersion 4
+        minSdkVersion 14
+        targetSdkVersion 19
     }
 
     buildTypes {
